@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: nlp
+      #username: kirito666_nlp
+      #password: 397773106tqj
+
+
+server:
+  tomcat:
+    uri-encoding: utf-8
+  port: 9090
